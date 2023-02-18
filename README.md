@@ -4,7 +4,7 @@ Small CLI tool to convert a sequence of `.png` or `.jpg` images to an animated`.
 
 ## Install
 
-Download the latest release from the [releases page]() for your platform. You may need to make the file executable and allow your MacOS to run it. See [this guide](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac) for more information.
+Download the latest release from the [releases page](https://github.com/egor-romanov/png2gif/releases) for your platform. You may need to make the file executable and allow your MacOS to run it. See [this guide](https://support.apple.com/en-gb/guide/mac-help/mh40616/mac) for more information.
 
 ### Or build from source
 
