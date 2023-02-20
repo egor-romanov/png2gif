@@ -12,6 +12,10 @@ Clone the repo, then run `go build` in the root directory.
 
 Don't forget to add the binary to your path.
 
+## [Try it out](https://replit.com/@egor-romanov)
+
+Just fork a project on replit: https://replit.com/@egor-romanov/animations
+
 ## Usage
 
 ```bash
